@@ -1,0 +1,16 @@
+anthropic
+clipboard
+groq
+keyboard
+numpy
+openai
+pydub
+python-dotenv
+pynput
+sounddevice
+soundfile
+tiktoken
+requests
+PyAudio
+ahk ; sys_platform == 'win32'
+ahk[binary] ; sys_platform == 'win32'
