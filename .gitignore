@@ -1,0 +1,14 @@
+
+*.pyc
+__pycache__
+.env
+audio_files/*
+!audio_files/temp_files_live_here.txt
+test.ipynb
+config.py
+/venv
+test.py
+/piper_tts/*
+!/piper_tts/voices/
+run_Maya.sh
+run_Maya.bat
